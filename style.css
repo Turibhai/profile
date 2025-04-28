@@ -54,6 +54,10 @@ h1{
   object-position: center;
 }
 
+.image-circle:hover {
+  transform: scaleX(-1);
+}
+
 .list-inline{
   padding: 0;
   list-style: none;
